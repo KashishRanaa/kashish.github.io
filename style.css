@@ -5,8 +5,9 @@
 	box-sizing: border-box;
 }
 html{
-	scroll-behavior: auto;
+	scroll-behavior: smooth;
 }
+
 .home{
 	height: 120vh;
 	width: 100%;
@@ -81,8 +82,8 @@ h4{
 	position: relative;
 	
 	width: 100%;
-	padding: 100px 0px;
-	background-color: #afafaf;
+	padding: 100px px;
+	background-color: #f8f0f0;
 }
 
 .about-text{
@@ -258,5 +259,6 @@ footer p:nth-child(2){
 .lastline{
 	font-size:xx-large;
 	color: #191919;
+	margin-top: 5% ;
 }
 
